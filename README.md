@@ -1,3 +1,5 @@
+<img src="Assets/gamelogo.png" width="400" alt="game logo">
+
 **Your Mission:**
 Race against the clock to deliver scattered parcels in a compact, handcrafted city. You have only **70 seconds** to prove you are the fastest courier in town!
 
